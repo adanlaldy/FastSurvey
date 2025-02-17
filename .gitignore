@@ -1,0 +1,27 @@
+# Environnement
+.env
+.env.*
+
+# Dépendances
+node_modules/
+venv/
+__pycache__/
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE et éditeurs
+.idea/
+.vscode/
+
+# Build et déploiement
+dist/
+build/
+
+# MongoDB
+*.lock
+*.bak
